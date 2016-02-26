@@ -41,7 +41,7 @@ According to [some slides on the internet](http://www.coling-2014.org/COLING%202
 
 ### The Code
 
-The largest diffifculty of learning to work with tensorflow is coming to understand that nothing is immediately evaluated, everything is just a structure for when the model eventually runs. This is disorienting and presents a decent curve, especially if you have little to no experience with the Machine Learning Theory behind Neural Nets (like me!).
+The largest diffifculty of learning to work with tensorflow is coming to understand that nothing is immediately evaluated, everything is just a structure for when the model eventually runs. This is disorienting and presents a decent curve, especially if you have little to no experience with the Machine Learning Theory behind Neural Nets.
 
 So a couple things learned:
 
@@ -62,4 +62,4 @@ To connect more layers into the structure, we add more weights and biases and as
 
 [Mostly Based off the tensorflow mnist example](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/mnist/mnist_softmax.py)
 
-Code Repo
+[Code Repo](https://github.com/KaroAntonio/4-Gram-Tensorflow)
